@@ -40,7 +40,7 @@ const Home = () => {
                 <div className="flex">
                     <div className="w-[40%] mx-auto">
                         <h1 className="text-5xl">
-                      <span className="text-black font-bold">  Best Benefits</span> with Kivicare
+                      <span className="text-black font-bold"> Best Benefits</span> with Kivicare
                         </h1>
                     </div>
 
@@ -72,6 +72,7 @@ const Home = () => {
                         <h1 className="text-3xl mt-4" >Restoring Confidence</h1>
                         <p className="text-gray-500 mt-4">Many desktop publishing packages and web page editors now use Lorem Ipsum.</p>
                         <p className="text-green-600 mt-6 font-semibold ">READ MORE +</p>
+                        <h1>something</h1>
                     </div>
 
                  </div>
